@@ -32,8 +32,8 @@
               '<a href="/control-structures-and-loops.php">Control Structures and Loops</a><br>'.
               '<a href="/php-loop.php">PHP Loop</a><br>'.
               '<a href="/php-strings.php">PHP Strings</a><br>'.
-              '<a href="/index.php">Functions In Php</a><br>'.
-              '<a href="/index.php">Cookies and Sessions</a><br>'.
+              '<a href="/functions-in-php.php">Functions In Php</a><br>'.
+              '<a href="/cookies-and-sessions.php">Cookies and Sessions</a><br>'.
               '<a href="/index.php">PHP Forms Handling</a><br>'.
               '<a href="/index.php">PHP File Processing</a><br>'.
               '<a href="/index.php">Error Handling and Exceptions</a><br>'.
