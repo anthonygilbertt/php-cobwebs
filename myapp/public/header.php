@@ -36,9 +36,9 @@
               '<a href="/cookies-and-sessions.php">Cookies and Sessions</a><br>'.
               '<a href="/php-forms-handling.php">PHP Forms Handling</a><br>'.
               '<a href="/php-file-processing.php">PHP File Processing</a><br>'.
-              '<a href="/index.php">Error Handling and Exceptions</a><br>'.
-              '<a href="/index.php">PHP Regular Expressions</a><br>'.
-              '<a href="/index.php">PHP Mail</a><br>'.
+              '<a href="/error-handling-and-exceptions.php">Error Handling and Exceptions</a><br>'.
+              '<a href="/php-regular-expressions.php">PHP Regular Expressions</a><br>'.
+              '<a href="/php-mail.php">PHP Mail</a><br>'.
               '<a href="/index.php">MySQL PHP and Other Database Access Methods</a><br>'.
               '<a href="/index.php">Object Oriented Programming</a><br>'.
               '<a href="/index.php">PHP Security</a><br>'.
